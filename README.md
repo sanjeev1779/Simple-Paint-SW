@@ -17,4 +17,3 @@ Features:
 Note: Image using in the project are not available here. Download it from this link with source code of the project:
 https://docs.google.com/uc?authuser=1&id=0B4NjsxPewchAcmVYTmJUR1o1dVk&export=download
 
-For any bugs and suggestions, feel free to contact me at: sanjeevkumar@iitj.ac.in
